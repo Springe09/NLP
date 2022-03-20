@@ -10,5 +10,23 @@ Apply natural language processing to understand the sentiment in the latest news
 
 
 1. [Sentiment Analysis](#1---Sentiment-Analysis)
-2. [Natural Language Processing](#2---Natural-Language-Processing)
-3. [Named Entity Recognition](#3---Named-Entity-Recognition)
+
+      **Q**:  Which coin had the highest mean positive score?
+
+      **A**:  Ethereum had the highest mean positive score- .077
+
+      **Q**:  Which coin had the highest compound score?
+
+      **A**:  Bitcoin had the highest compound score- .910
+
+      **Q**.  Which coin had the highest positive score?
+
+      **A**:  Bitcoin had the highest positive score- .301
+
+
+
+
+
+
+3. [Natural Language Processing](#2---Natural-Language-Processing)
+4. [Named Entity Recognition](#3---Named-Entity-Recognition)
