@@ -40,4 +40,6 @@ Apply natural language processing to understand the sentiment in the latest news
      Build a named entity recognition model for both coins and visualize the tags using SpaCy.
      
      ![NER_BTC.png](Images/https://github.com/Springe09/NLP/blob/main/NRE_BTC.PNG)
+     
+     ![NER_ETH.png](Images/https://github.com/Springe09/NLP/blob/mainhttps://github.com/Springe09/NLP/blob/main/NER-ETH.PNG
 
