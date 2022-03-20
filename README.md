@@ -36,15 +36,15 @@ Apply natural language processing to understand the sentiment in the latest news
 
      Word clouds for each coin to summarize the news for each coin.  
      
-  ![WordCloud](Images/https://github.com/Springe09/NLP/blob/main/btc.PNG)
-  
-  ![WordCloud_eth](Images/https://github.com/Springe09/NLP/blob/main/ETH.PNG)
-     
+  ![WordCloud](https://github.com/Springe09/NLP/blob/main/btc.PNG?raw=true)
+
+  ![WordCloud_eth](https://github.com/Springe09/NLP/blob/main/ETH.PNG)
+
    #### 3 - Named Entity Recognition
      Build a named entity recognition model for both coins and visualize the tags using SpaCy.
      
-  ![NER_BTC.png](Images/https://github.com/Springe09/NLP/blob/main/NRE_BTC.PNG)
+  ![NER_BTC.png](https://github.com/Springe09/NLP/blob/main/NRE_BTC.PNG)
   
-  ![NER_ETH.png](Images/https://github.com/Springe09/NLP/blob/main/NER_ETH.PNG)
+  ![NER_ETH.png](https://github.com/Springe09/NLP/blob/main/NER_ETH.PNG)
      
  
