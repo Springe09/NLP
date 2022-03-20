@@ -45,6 +45,7 @@ Apply natural language processing to understand the sentiment in the latest news
      
   ![NER_BTC.png](https://github.com/Springe09/NLP/blob/main/NRE_BTC.PNG)
   
-  ![NER_ETH.png](https://github.com/Springe09/NLP/blob/main/NER_ETH.PNG)
+  
+  ![NER_ETH.png](https://github.com/Springe09/NLP/blob/main/NER-ETH.PNG)
      
  
