@@ -25,8 +25,3 @@ Apply natural language processing to understand the sentiment in the latest news
 
 
 
-
-
-
-3. [Natural Language Processing](#2---Natural-Language-Processing)
-4. [Named Entity Recognition](#3---Named-Entity-Recognition)
