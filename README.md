@@ -36,7 +36,7 @@ Apply natural language processing to understand the sentiment in the latest news
 
      Word clouds for each coin to summarize the news for each coin.  
      
-  ![WordCloud](https://github.com/Springe09/NLP/blob/main/btc.PNG?raw=true)
+  ![WordCloud](https://github.com/Springe09/NLP/blob/main/BTC.PNG)
 
   ![WordCloud_eth](https://github.com/Springe09/NLP/blob/main/ETH.PNG)
 
